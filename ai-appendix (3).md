@@ -2,7 +2,7 @@
 
 **Model and date:** Claude Sonnet 5.5. Exchanges took place on 5 Nov 2026 (Task 4.1 at about 20:03, Task 4.3 at about 21:04 and 21:06).
 
-**How this file was made.** The prompts and replies below are text extracted from my PDF exports of the chats (`AI_reply.pdf`, `reply_2.pdf`, `Parallel_trends_in_TWFE_review_-_Claude.pdf`), which are submitted alongside as the primary record. Only the browser's page headers and footers and the "Show more" button text were removed. Long lines in the PDFs are sometimes cut off at the edge of the page. The one place I repaired text is marked in Task 4.3.
+**How this file was made.** The prompts and replies below are text extracted from my PDF exports of the chats (`AI_reply.pdf`, , `Parallel_trends_in_TWFE_review_-_Claude.pdf`), which are submitted alongside as the primary record. Only the browser's page headers and footers and the "Show more" button text were removed. Long lines in the PDFs are sometimes cut off at the edge of the page. The one place I repaired text is marked in Task 4.3.
 
 ---
 
