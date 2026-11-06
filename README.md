@@ -7,7 +7,7 @@ Problem Set 3 for ECON 5200. It looks at an agency's claim that a county trainin
 - `Econ_5200_PS3.ipynb`: the notebook, with all four phases.
 - `src/did_toolkit.py`: the module written in Step 3.3. It has the difference-in-differences functions and the clustered-inference wrapper.
 - `ai-appendix.md`: the full AI transcript for Phase 4 (prompts, replies, and what I changed).
-- PDF exports of the AI chats, which are the primary record behind the appendix.
+
 
 ## How to run
 
